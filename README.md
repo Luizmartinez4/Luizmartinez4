@@ -4,7 +4,7 @@
 </div>
     
 <details>
-  <summary><h3>👨‍💻ABOUT ME</h3></summary>
+  <summary><h3>👨‍💻About Me</h3></summary>
 
   - 💬 Hello! My name is Luiz, I’m 19 years old, and I’m currently studying Software Engineering. I'm in my third semester at university. I've been passionate about software development, and I’ve dedicated myself to studying beyond the university curriculum. I’ve taken some online courses on platforms like Alura, Rocketseat, and Udemy, which helped me deepen my understanding of different programming languages, tools, and frameworks.
 
@@ -39,6 +39,11 @@
 [![instagram][instagram]](https://www.instagram.com/luiz.m.04/#)
 [![linkedin][linkedin]](https://www.linkedin.com/in/luiz-martinez-142162320/)
 
+
+## Status
+
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmartinez4&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmartinez4&layout=compact&theme=tokyonight)
 
 
 <!-- Badges -->
