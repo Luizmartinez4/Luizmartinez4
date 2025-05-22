@@ -46,9 +46,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmartinez4&layout=compact&theme=tokyonight)
 
 
-![Snake animation](https://github.com/luizmartinez4/luizmartinez4/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- Badges -->
 [html]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge
 [css]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge
